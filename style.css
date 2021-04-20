@@ -1,7 +1,7 @@
 @charset "utf-8";
 @viewport{width:device-width;}
 body{width:auto;height:auto;align-items:center;display:flex;background:url(https://cv.ss34.tk/bg.png) no-repeat;}
-#la2{float:left;width:256px;height:256px;}
+#la2{float:left;width:64px;height:64px;}
 #cv{width:auto;height:auto;background-color:#eee;box-shadow:1px 1.5px #333;border:1px solid #101010;position:relative;padding:50px;margin:50px;}
 #cv h1{margin:0;padding:0;font-family:italic;font-size:18px;text-transform:uppercase;text-align:center;position:relative;}
 #cv h2{font-family:italic;font-size:24px;}
