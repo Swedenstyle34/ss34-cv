@@ -1,6 +1,6 @@
 @charset "utf-8";
 @viewport{width:device-width;}
-body{width:auto;height:auto;background:url(assets/gfx/img/bnr/bgimg/bg.png) no-repeat;}
+body{width:auto;height:auto;background:url(https://cs.ss34.tk/root/lib/assets/gfx/img/bnr/bgimg/bg.png) no-repeat;}
 #la2{margin:auto;}
 #la2 img{float:left;width:128px;height:128px;border-radius:64px;border:1px solid rgba(50,50,50,0.8);box-shadow:1px 1.25px rgba(170,170,170,0.8);}
 #la2 h1{margin:0px 1000px 0px 135px;padding:95px 0px 0px 0px;font-family:arial;font-size:18px;text-transform:uppercase;text-align:left;position:relative;}
